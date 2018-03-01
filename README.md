@@ -9,11 +9,7 @@ The ``Golonka\BBCodeParser`` package will help you with parsing BBCode.
 
 ## Install
 
-Via Composer
-
-``` bash
-$ composer require golonka/bbcodeparser
-```
+This package is a mirror of the original which has been removed from packagist.
 
 ## Usage
 To parse some text it's as easy as this!
